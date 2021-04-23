@@ -52,3 +52,37 @@ best outcome would be clickable pages with all bios in the app.
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
 My first step is to figure out how to code clickable pages. I will need to figure out how to add headers. From this point i can hopefully just have a Print statement to convey the details of each operator. I am still figuring out my organization. I don't know if i want to split the operator by country origin or utility or just attacker and defender operators.
+
+
+
+
+
+
+
+#### Your name
+
+Kai Freeman
+
+#### Your section leader's name
+
+Johanne Nicols
+
+#### Project title
+
+R6 Bios
+
+***
+
+Short answers for the below questions suffice. If you want to alter your plan for your project (and obtain approval for the same), be sure to email your section leader directly!
+
+#### What have you done for your project so far?
+
+I have been working on debugging the main page
+
+#### What have you not done for your project yet?
+
+I have not added the bios for the operators
+
+#### What problems, if any, have you encountered?
+
+Creating the main function page has been the createst challenge
